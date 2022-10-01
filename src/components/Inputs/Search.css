@@ -1,0 +1,32 @@
+.search {
+	display: flex;
+}
+
+.search form {
+	align-self: center;
+}
+
+.search input {
+	width: 193.5px;
+	height: 34px;
+	padding-left: 2.8em;
+	padding-right: 3em;
+	background-color: transparent;
+	background-image: url('../../images/search-icon.svg');
+	background-size: 27px;
+	background-position: .2em .32em; 
+	background-repeat: no-repeat;
+	border: 1.5px solid #fff;
+	font-size: 14px;
+	letter-spacing: .04em;
+	color: #fff;
+}
+
+.clear-search {
+	position: absolute;
+	margin: .07em 0 0 9.7em;
+	font-size: 1.65em;
+	font-weight: 100;
+	color: #fff;
+	cursor: default;
+}

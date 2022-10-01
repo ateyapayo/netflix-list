@@ -1,0 +1,63 @@
+.sort-container {
+	display: flex;
+}
+
+.sort {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	margin: 0;
+	padding: 1.7em .6em;
+}
+
+.sort span {
+	font-size: 1.7rem;
+	color: #fff;
+}
+
+.sort,
+.sort button {
+	background-color: transparent;
+}
+
+.sort button {
+	padding: 0 1.7em;
+	margin-top: 0;
+	margin-bottom: 0;
+	border: none;
+	background-image: url('../../images/sort-button.svg');
+	background-size: 50px;
+	background-position: center;
+	background-repeat: no-repeat;
+	text-transform: uppercase;
+	cursor: pointer;
+}
+
+.btn-column {
+	display: flex;
+	width: 89px;
+	background-color: transparent;
+	border-left: 2px solid #fff;
+}
+
+
+@media (max-width: 1024px) { 	
+	.btn-column {
+		width: 89px;
+	}
+}
+
+
+@media (max-width: 768px) { 	
+	.btn-column {
+		width: 91px;
+	}
+}
+
+
+@media (max-width: 500px) { 
+	.btn-column {
+		border-left: none;
+	}
+}
+
