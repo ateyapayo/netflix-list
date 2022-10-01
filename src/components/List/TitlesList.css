@@ -115,6 +115,9 @@ li:nth-child(odd),
 
 
 @media (max-width: 375px) { 
+    li {
+        font-weight: 500;
+    }
     .delete-title {
         padding: 23.5px 36px;
     }

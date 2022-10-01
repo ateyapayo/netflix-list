@@ -1,7 +1,7 @@
 const Header = () => {
     return (
         <div className="header">
-            <a href=""><img src={require('../images/logo.png')} className="header-logo" alt="Netflix logo" /></a>
+            <img src={require('../images/logo.png')} className="header-logo" alt="Netflix logo" />
         </div>
     )
 }

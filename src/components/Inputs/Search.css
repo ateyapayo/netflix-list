@@ -30,3 +30,14 @@
 	color: #fff;
 	cursor: default;
 }
+
+
+@media (max-width: 375px) { 	
+	.search input {
+		background-position: .2em .45em; 
+	}
+
+	.clear-search {
+		margin: .13em 0 0 9.7em;
+	}
+}
