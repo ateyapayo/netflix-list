@@ -113,13 +113,6 @@
 
 @media (max-width: 375px) { 	
 	.plus-button {
-		width: 46px;
-	}
-}
-
-
-@media (max-width: 320px) { 	
-	.plus-button {
-		width: 47px;
+		width: 44px;
 	}
 }
