@@ -36,6 +36,11 @@ input:focus {
 	flex-direction: column;
 }
 
+footer {
+	margin: 0 auto;
+	width: 97%;
+}
+
 footer p {
 	margin: .9em auto;
 	font-size: .85em;

@@ -21,12 +21,12 @@
 }
 
 .sort button {
-	padding: 0 1.7em;
+	padding: 0 1.35em;
 	margin-top: 0;
 	margin-bottom: 0;
 	border: none;
 	background-image: url('../../images/sort-button.svg');
-	background-size: 50px;
+	background-size: 23.5px;
 	background-position: center;
 	background-repeat: no-repeat;
 	text-transform: uppercase;

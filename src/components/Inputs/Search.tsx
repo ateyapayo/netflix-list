@@ -13,7 +13,7 @@ const Search = ({ searchedTitle, onSearch, clearSearch }: Props) => {
     <div className="search">
         <input
           type="text"
-          placeholder="Search title"
+          placeholder="search"
           value={searchedTitle}
           onChange={onSearch}
           autoComplete="off"

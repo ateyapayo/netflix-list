@@ -16,7 +16,7 @@ const NewCompany = ({ movieTitle, addTitle, handleChange, validation }: Props) =
       <form onSubmit={addTitle}>
         <input
           type="text"
-          placeholder="New title"
+          placeholder="Add a new movie"
           name="movie"
           value={movieTitle}
           onChange={handleChange}
