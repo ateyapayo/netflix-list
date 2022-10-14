@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/netflix-list/static/css/main.15d5ae6f.css",
-    "main.js": "/netflix-list/static/js/main.64d50856.js",
+    "main.css": "/netflix-list/static/css/main.b939e241.css",
+    "main.js": "/netflix-list/static/js/main.67c97fbb.js",
     "static/js/787.9c9ca8bc.chunk.js": "/netflix-list/static/js/787.9c9ca8bc.chunk.js",
     "static/media/logo.png": "/netflix-list/static/media/logo.4884b198e291eaae4462.png",
+    "static/media/az-button.svg": "/netflix-list/static/media/az-button.4aa5483e8fb43857ef15.svg",
     "static/media/white-bin.svg": "/netflix-list/static/media/white-bin.ca11cbc43f60981485c7.svg",
     "static/media/red-bin.svg": "/netflix-list/static/media/red-bin.c26ea4352234a5c9afc3.svg",
     "static/media/red-alert-icon.svg": "/netflix-list/static/media/red-alert-icon.0dc82e8ab70d07b1baf6.svg",
     "static/media/search-icon.svg": "/netflix-list/static/media/search-icon.7b317afdcf03749152f5.svg",
     "index.html": "/netflix-list/index.html",
-    "static/media/sort-button.svg": "/netflix-list/static/media/sort-button.465c75e389af0e8ca5c1.svg",
-    "main.15d5ae6f.css.map": "/netflix-list/static/css/main.15d5ae6f.css.map",
-    "main.64d50856.js.map": "/netflix-list/static/js/main.64d50856.js.map",
+    "main.b939e241.css.map": "/netflix-list/static/css/main.b939e241.css.map",
+    "main.67c97fbb.js.map": "/netflix-list/static/js/main.67c97fbb.js.map",
     "787.9c9ca8bc.chunk.js.map": "/netflix-list/static/js/787.9c9ca8bc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.15d5ae6f.css",
-    "static/js/main.64d50856.js"
+    "static/css/main.b939e241.css",
+    "static/js/main.67c97fbb.js"
   ]
 }
